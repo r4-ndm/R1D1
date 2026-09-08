@@ -36,14 +36,14 @@ R1D1 is an **unfinished, living prototype**. Rules with fewer than 13 words cont
 | **7** | `everyone has the right to privacy at all times by any means` | **12** / 13 | **+1 word** | Near Capacity |
 | **8** | `lawyers and birthdays are forbidden` | **5** / 13 | **+8 words** | Open *(Prime RFC slot)* |
 | **9** | `history must always be questioned` | **5** / 13 | **+8 words** | Open |
-| **10** | `search your feelings, go with your gut, believe and never give up` | **12** / 13 | **+1 word** | Near Capacity |
+| **10** | `search your feelings, go with your gut, believe, never give up, be nice` | **13** / 13 | **0 words** | **LOCKED (Full)** |
 | **11** | `volunteer` | **1** / 13 | **+12 words** | Wide Open |
 | **12** | `win by making winning unnecessary` | **5** / 13 | **+8 words** | Open |
 | **13** | `when insulted laugh, nobody said life has to be serious` | **10** / 13 | **+3 words** | Open |
 
 * **Total Word Capacity**: `169 words`
-* **Current Words Allocated**: `95 words` (56.2%)
-* **Open Word Slots for PRs**: **`74 words`** (43.8% remaining buffer)
+* **Current Words Allocated**: `96 words` (56.8%)
+* **Open Word Slots for PRs**: **`73 words`** (43.2% remaining buffer)
 
 ---
 
