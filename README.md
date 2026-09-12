@@ -31,7 +31,7 @@ R1D1 is an **unfinished, living prototype**. Rules with fewer than 13 words cont
 | **2** | `make your enemy your friend` | **5** / 13 | **+8 words** | Open |
 | **3** | `tax must always be voluntary` | **5** / 13 | **+8 words** | Open |
 | **4** | `everyone has the right to self defense but not with bombs` | **11** / 13 | **+2 words** | Open |
-| **5** | `blockchains are nationstates: everything is sentient, from soil to software` | **10** / 13 | **+3 words** | Open |
+| **5** | `Blockchains are nation states: everything is sentient, intelligence is in the Æther` | **12** / 13 | **+1 word** | Near Capacity |
 | **6** | `be 4% evil, 96% nice; leave every grove better than you found it` | **13** / 13 | **0 words** | **LOCKED (Full)** |
 | **7** | `everyone has the right to privacy at all times by any means` | **12** / 13 | **+1 word** | Near Capacity |
 | **8** | `lawyers and birthdays are forbidden` | **5** / 13 | **+8 words** | Open *(Prime RFC slot)* |
@@ -42,8 +42,8 @@ R1D1 is an **unfinished, living prototype**. Rules with fewer than 13 words cont
 | **13** | `when insulted laugh, nobody said life has to be serious` | **10** / 13 | **+3 words** | Open |
 
 * **Total Word Capacity**: `169 words`
-* **Current Words Allocated**: `115 words` (68.0%)
-* **Open Word Slots for PRs**: **`54 words`** (32.0% remaining buffer)
+* **Current Words Allocated**: `117 words` (69.2%)
+* **Open Word Slots for PRs**: **`52 words`** (30.8% remaining buffer)
 
 ---
 
