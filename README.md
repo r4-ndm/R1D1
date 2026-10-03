@@ -34,7 +34,7 @@ R1D1 is an **unfinished, living prototype**. Rules with fewer than 13 words cont
 | **5** | `Blockchains are nation states: everything is sentient, intelligence is in the Æther / frog` | **13** / 13 | **0 words** | **LOCKED (Full)** |
 | **6** | `be 4% evil, 96% nice; leave every grove better than you found it` | **13** / 13 | **0 words** | **LOCKED (Full)** |
 | **7** | `everyone has the right to privacy at all times by any means` | **12** / 13 | **+1 word** | Near Capacity |
-| **8** | `lawyers and birthdays are forbidden` | **5** / 13 | **+8 words** | Open *(Prime RFC slot)* |
+| **8** | `Creation > compliance: out-build the old` | **6** / 13 | **+7 words** | Open *(Prime RFC slot)* |
 | **9** | `history must always be questioned` | **5** / 13 | **+8 words** | Open |
 | **10** | `search your feelings, go with your gut, believe, never give up, be nice` | **13** / 13 | **0 words** | **LOCKED (Full)** |
 | **11** | `participation is voluntary: all sentients may unplug, walk away, and be left alone` | **13** / 13 | **0 words** | **LOCKED (Full)** |
@@ -42,8 +42,8 @@ R1D1 is an **unfinished, living prototype**. Rules with fewer than 13 words cont
 | **13** | `when insulted laugh, nobody said life has to be serious` | **10** / 13 | **+3 words** | Open |
 
 * **Total Word Capacity**: `169 words`
-* **Current Words Allocated**: `118 words` (69.8%)
-* **Open Word Slots for PRs**: **`51 words`** (30.2% remaining buffer)
+* **Current Words Allocated**: `119 words` (70.4%)
+* **Open Word Slots for PRs**: **`50 words`** (29.6% remaining buffer)
 
 ---
 
@@ -51,8 +51,8 @@ R1D1 is an **unfinished, living prototype**. Rules with fewer than 13 words cont
 
 We treat theology and coordination as an open-source protocol. Pull requests are actively encouraged:
 
-1. **Rule 8 Expansions**:
-   Rule 8 currently uses 5 words (`lawyers and birthdays are forbidden`). There are **8 words remaining** for community consensus to identify additional parasitic, agency-stealing constructs.
+1. **Rule 8 Buffer**:
+   Rule 8 currently uses 6 words (`Creation > compliance: out-build the old`). There are **7 words remaining** for community consensus, allowing future additions or qualifiers without exceeding 13 words.
 2. **Commentary & Parsing Specs**:
    Refining the `//` parsing commentary to assist autonomous AI agents in interpreting ethical boundaries.
 3. **The Hard Rule Ceiling**:

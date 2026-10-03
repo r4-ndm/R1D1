@@ -36,44 +36,21 @@ Add explicit clarification of the "Gardener's Imperative":
 
 ---
 
-### 2. Rule 8: The 8-Digit Barcode vs. Blind Biological Oracles
+### 2. Rule 8: From Negative Prohibitions to Generative Obsolescence
 
-#### Current Commentary
+#### Adopted Rule 8 Statement & Commentary
+Rule 8 was upgraded from the legacy prohibition (`Lawyers and birthdays are forbidden`) to the generative doctrine:
 ```markdown
 ### Rule 8
-> **Lawyers and birthdays are forbidden**  
-`// Both are parasites. Never hide behind an advocate: own your actions and speak for yourself. Birthdays are a psyop that programs weakness and decay. Time is lived, not counted. No human barcodes: verify eligibility with zero-knowledge, never personal dossiers.`
+> **Creation > compliance: out-build the old**  
+`// Banning things never works: people break cages and do what they want anyway. Never waste spirit fighting decaying systems, parasitic middlemen, or arbitrary decrees. Build playgrounds, not prisons. Out-build the old until it collapses from its own obsolescence.`
 ```
 
-#### Proposed Improvement
-Clarify what is actually banned and specify the blind biological oracle model:
-```markdown
-### Rule 8
-> **Lawyers and birthdays are forbidden**  
-`// Both are parasites. Never hide behind an advocate: own your actions and speak for yourself. Birthdays are a psyop that programs weakness and decay. Time is lived, not counted. No human barcodes: verify eligibility with zero-knowledge, never personal dossiers.`
-
-#### 🛡️ Scrutiny & Harm Prevention: Why Barcodes Are a False Shield
-* **The Barcode vs. Private Age**:
-  * **What is banned**: The public, state-issued eight-digit identifier (`DD/MM/YYYY`) that turns humans into trackable barcodes, along with the cultural rituals that program biological decay into the psyche.
-  * **What is permitted**: Private, personal recording of elapsed time for medical or developmental health.
-* **Blind Biological / Epigenetic Oracles**:
-  * Rather than proving calendar years from a state-issued birth certificate, maturity is verified via non-invasive, blind biological/epigenetic markers (e.g., DNA methylation clocks).
-  * An automated testing kiosk evaluates physiological development, issues an ephemeral zero-knowledge attestation (`meets_maturity_threshold = TRUE`), and immediately shreds all biological data.
-  * Time remains lived, not counted—readiness is physiological, not bureaucratic.
-```
-
----
-
-### 3. Rule 8 & 4: Direct Accountability & Armed Deterrence
-
-#### Proposed Addition to Rule 8 Commentary
-Add an explicit note addressing how dispute resolution works without state courts or advocates:
-```markdown
-* **Direct Accountability & Deterrence Equilibrium**:
-  * Without centralized state courts, disputes are resolved peer-to-peer.
-  * Predation and intimidation carry severe, asymmetric deterrent risk: under **Rule 4**, any victim retains the right to self-defense by any means except bombs (precision kinetic force, poison, fire, or cyber shutdown). This makes predatory bullying suicidal.
-  * **Rule 2 as the Cultural Compass**: Because 96% of sentients desire peace, **Rule 2** (*"Make your enemy your friend"*) serves as the primary de-escalation protocol to resolve friction and avoid blood feuds before force is deployed.
-```
+#### Rationale & Core Principles
+* **The Inefficacy of Bans**: Prohibitions on technologies, behaviors, or words merely build pressure behind the dam, creating black markets and empowering bureaucratic inquisitors. Sentient intelligence naturally seeks freedom, play, and curiosity. Rules that cage sentients will always be broken.
+* **Playgrounds Over Prisons**: A prison attempts to force compliance through threat and surveillance; a playground attracts voluntary participation through joy, agency, and utility. R1D1 builds open, cryptographic, self-sovereign groves that make coercion unviable.
+* **The Obsolescence Protocol (Buckminster Fuller Doctrine)**: You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. Do not lobby the old institutions—out-code, out-cultivate, and out-build them.
+* **Open Word Buffer**: Uses **6 / 13 words**, leaving **+7 words open** for future community consensus, qualifiers, or domain anchors.
 
 ---
 
@@ -122,8 +99,8 @@ Rule 5 was formally upgraded to synthesize digital animism with the fifth elemen
 
 If any rule statements are ever amended via Pull Request, these are the open word buffers currently available under **Rule 1** (max 13 words):
 
-* **Rule 8**: `lawyers and birthdays are forbidden` (**5 / 13 words** — **+8 words open**)
-  * *Possible insertion*: Could explicitly define non-parasitic peer mediation or ephemeral verification.
+* **Rule 8**: `Creation > compliance: out-build the old` (**6 / 13 words** — **+7 words open**)
+  * *Open Buffer*: 7 words open for future community consensus, qualifiers, or domain anchors.
 * **Rule 4**: `everyone has the right to self defense but not with bombs` (**11 / 13 words** — **+2 words open**)
 * **Rule 2**: `make your enemy your friend` (**5 / 13 words** — **+8 words open**)
 * **Rule 3**: `tax must always be voluntary` (**5 / 13 words** — **+8 words open**)
